@@ -1,3 +1,3 @@
-# Different_Logins-Sign Ups
+# React App Boiler Plate Template
 
-A repository to practice different kinds/styles of login and sign up or registration pages using React framework
+A starter's repository for all React framework github pages hosted front end apps
